@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/arsh.kumar/arsh-personal/github/learning-typescript'
+make: Leaving directory `/Users/arsh.kumar/arsh-personal/github/learning-typescript'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
