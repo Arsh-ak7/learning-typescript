@@ -25,7 +25,7 @@ const main = async () => {
     });
     await apolloServer.start();
     apolloServer.applyMiddleware({ app });
-    app.listen(3000, () => console.log('server started'));
+    app.listen(8080, () => console.log('server started'));
 };
 main().catch((err) => console.log(err));
 //# sourceMappingURL=index.js.map
